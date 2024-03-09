@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hüseyin Küçükoğul</h1>
 <h3 align="center">A passionate jr. frontend developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif"> 
+<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">  
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kucukogul&label=Profile%20views&color=0e75b6&style=flat" alt="kucukogul" /> </p>
-
-<p align="left"> <a href="https://twitter.com/hsynkucukogul" target="blank"><img src="https://img.shields.io/twitter/follow/hsynkucukogul?logo=twitter&style=for-the-badge" alt="hsynkucukogul" /></a> </p>
-
-- 📫 How to reach me **huseyinkucukogulcontact@gmail.com**
+📫 How to reach me **huseyinkucukogulcontact@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hsynkucukogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hsynkucukogul" height="30" width="40" /></a>
+  
 <a href="https://linkedin.com/in/kucukogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kucukogul" height="30" width="40" /></a>
-<a href="https://instagram.com/hsynkucukogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hsynkucukogul" height="30" width="40" /></a>
-<a href="https://medium.com/@kucukogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kucukogul" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
