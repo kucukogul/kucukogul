@@ -1,18 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hüseyin</h1>
-<img align="right" alt="Coding" width="430" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"> 
+<h2> Hello there, I'm Hüseyin Küçükoğul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-- 🌱 I’m currently learning **JavaScript & Pyhton and Java.**
+[
+![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kucukogul) [![Twitter](https://img.shields.io/badge/Twitter-1E90FF?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kucukogulh) [![Medium](https://img.shields.io/badge/Medium-555555?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kucukogul)
 
-- 📫 How to reach me **huseyinkucukogulcontact@gmail.com**
+I am a studying in Literature at Selçuk University and Computer Programming at Anadolu University. I have also learned HTML, CSS, and JavaScript technologies. As a software developer, I am striving to learn technologies such as Python, R, Java, and C/C++. My areas of interest include Data Science, Machine Learning, and Renewable Energy. 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kucukogul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kucukogul" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kucukogul&amp;theme=blueberry_duo" style="max-width: 100%;" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kucukogul&show_icons=true" style="max-width: 100%;" /></p>
