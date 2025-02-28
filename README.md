@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi There! I'm Huseyin Kucukogul
 
-<!--
-**kucukogul/kucukogul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a data scientist, currently working with Python, R, SQL and Scala programming languages to develop projects. I enjoy working with complex data and performing operations on it. My areas of interest include AI, Data Science and Renewable Energy.   
 
-Here are some ideas to get you started:
+## Technologies i use
+- **Python**: Data analysis and processing. (**NumPy, Pandas, PyTorch, TensorFlow, Scikit-learn, Matplotlib, Seaborn**)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **R**: Statistical data analysis.
+
+- **SQL**: Data query.
+
+- **Scala**: Big data operations.
+
+- **Apache Hadoop and Apache Spark**: Big data and processing.
+
+- **Tableau and Power BI**: Data visualization.
+
+- **PostgreSQL and MongoDB (NoSQL)**: Data management.
