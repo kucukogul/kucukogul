@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi There! I'm Huseyin Kucukogul 👋
 
-<!--
-**kucukogul/kucukogul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior data scientist with a solid foundation in statistics, machine learning and big data, eager to apply and expand skills in real-world projects.
 
-Here are some ideas to get you started:
+Creates data science and artificial intelligence solutions, builds data-oriented products and extracts valuable insights from data using big data technologies, machine learning, deep learning, NLP and statistics.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies i use 🛠
+### Programming
+Python, R, SQL
+
+### Visualization
+Tableau, Power BI
+
+### Big Data
+Apache Spark, Hadoop
+
+### Databases
+PostgreSQL, MongoDB
+
+### Version Control, DevOps & Cloud
+Git, GitHub, Docker, Kubernetes, AWS, GCP
