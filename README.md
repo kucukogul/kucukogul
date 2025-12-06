@@ -1,4 +1,4 @@
-## Hi There! I'm Huseyin Kucukogul 👋
+## Hi There! I'm Hüseyin Küçükoğul 👋
 
 Junior data scientist with a solid foundation in statistics, machine learning and big data, eager to apply and expand skills in real-world projects.
 
