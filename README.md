@@ -1,21 +1,9 @@
-## Hi There! I'm Hüseyin Küçükoğul 👋
+## Hi There! 👋
 
-Data scientist with a solid foundation in statistics, machine learning and big data, eager to apply and expand skills in real-world projects.
+My name is Huseyin Kucukogul. 
 
-Creates data science and artificial intelligence solutions, builds data-oriented products and extracts valuable insights from data using big data technologies, machine learning, deep learning, NLP and statistics.   
+I'm a Data Scientist, as well as the co-founder of RemmeyAI and the founder of Datathon Camp. 
 
-## Technologies i use 🛠
-### Programming
-Python, R, SQL
+Here, you will find the projects I work on in my areas of interest. 
 
-### Visualization
-Tableau, Power BI
-
-### Big Data
-Apache Spark, Hadoop
-
-### Databases
-PostgreSQL, MongoDB
-
-### Version Control, DevOps & Cloud
-Git, GitHub, Docker, Kubernetes, AWS, GCP
+Welcome ;)
